@@ -141,3 +141,5 @@ friends: [
     #    href: ""
     #}
 ]
+
+theme: jekyll-theme-cayman
